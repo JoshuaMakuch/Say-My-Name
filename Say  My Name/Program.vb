@@ -1,3 +1,9 @@
+'Joshua Makuch
+'RCET0265
+'Spring 2023
+'Say My Name
+'https://github.com/JoshuaMakuch/Say-My-Name
+
 Imports System
 
 Module Program
